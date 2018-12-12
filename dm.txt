@@ -1,3 +1,0 @@
-Dim a=1
-TracePrint a
-TracePrint "6666"

@@ -1,2 +1,2 @@
-MyRed=@#@
+MyRed=https://github.com/Jsenc97/xbxxzscript/raw/master/jsenhsz.apk@#@
 NoRed=http://dev.yunsj.net.cn/media/apk/2019/05/app-s7toj7mf.apk#@#

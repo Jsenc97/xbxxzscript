@@ -1,0 +1,2 @@
+MyRed=@#@
+NoRed=#@#

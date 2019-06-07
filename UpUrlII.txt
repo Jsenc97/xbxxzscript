@@ -1,2 +1,2 @@
-MyRed=http://dev.yunsj.net.cn/media/apk/2019/06/app-kpdr_7s1.apk@#@
-NoRed=http://dev.yunsj.net.cn/media/apk/2019/06/app-kpdr_7s1.apk#@#
+MyRed=http://dev.yunsj.net.cn/media/apk/2019/06/app-m68pdz3d.apk@#@
+NoRed=http://dev.yunsj.net.cn/media/apk/2019/06/app-m68pdz3d.apk#@#

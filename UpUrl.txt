@@ -1,2 +1,2 @@
-MyRed=http://dev.yunsj.net.cn/media/apk/2019/06/app-tk_02lrh.apk@#@
-NoRed=http://dev.yunsj.net.cn/media/apk/2019/06/app-tk_02lrh.apk#@#
+MyRed=http://dev.yunsj.net.cn/media/apk/2019/07/app-_r7egyzk.apk@#@
+NoRed=http://dev.yunsj.net.cn/media/apk/2019/07/app-_r7egyzk.apk#@#
